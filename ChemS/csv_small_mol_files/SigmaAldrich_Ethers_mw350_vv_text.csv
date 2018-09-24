@@ -1,0 +1,201 @@
+Name,Canonical_Smiles,SMARTS
+"{2-Isopropoxyethanol, 99 %}",CC(C)OCCO,[#8](-[#6]-[#6]-[#8])-[#6](-[#6])-[#6]
+"{Benzyl ether, 99 %}",C(OCc1ccccc1)c2ccccc2,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#8]-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{Dipropyl ether, 99+ %}",CCCOCCC,[#8](-[#6]-[#6]-[#6])-[#6]-[#6]-[#6]
+"{2,6-Dichlorobenzyl methyl ether, 97 %}",COCc1c(Cl)cccc1Cl,[#6](-[c]1:[c](:[c]:[c]:[c]:[c]1-[#17])-[#17])-[#8]-[#6]
+"{4-(Benzyloxy)benzyl chloride, 97 %}",ClCc1ccc(OCc2ccccc2)cc1,[#8](-[c]1:[c]:[c]:[c](-[#6]-[#17]):[c]:[c]1)-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{trans-Anethole, 99 %}",COc1ccc(\C=C\C)cc1,[#6](/-[c]1:[c]:[c]:[c](-[#8]-[#6]):[c]:[c]1)=[#6]\-[#6]
+"{1,3-Dimethoxybenzene, 98+ %}",COc1cccc(OC)c1,[#8](-[c]1:[c]:[c]:[c]:[c](-[#8]-[#6]):[c]1)-[#6]
+"{4-Bromobutyl phenyl ether, 97 %}",BrCCCCOc1ccccc1,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#6]-[#6]-[#6]-[#6]-[#35]
+"{2,3-Dimethylanisole, 97 %}",COc1cccc(C)c1C,[#8](-[c]1:[c]:[c]:[c]:[c](-[#6]):[c]1-[#6])-[#6]
+"{2,4-Dimethylanisole, 97 %}",COc1ccc(C)cc1C,[#8](-[c]1:[c]:[c]:[c](-[#6]):[c]:[c]1-[#6])-[#6]
+"{3,4-Dimethylanisole, 99 %}",COc1ccc(C)c(C)c1,[#8](-[c]1:[c]:[c]:[c](-[#6]):[c](-[#6]):[c]1)-[#6]
+"{1,2,3-Trimethoxybenzene, 98 %}",COc1cccc(OC)c1OC,[#8](-[c]1:[c](:[c]:[c]:[c]:[c]1-[#8]-[#6])-[#8]-[#6])-[#6]
+"{1,3,5-Trimethoxybenzene, 99+ %}",COc1cc(OC)cc(OC)c1,[#8](-[c]1:[c]:[c](-[#8]-[#6]):[c]:[c](-[#8]-[#6]):[c]1)-[#6]
+"{Veratrole, 99 %}",COc1ccccc1OC,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1-[#8]-[#6])-[#6]
+"{1,2-Diphenoxyethane, 99 %}",C(COc1ccccc1)Oc2ccccc2,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#6]-[#6]-[#8]-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{Butyl phenyl ether, 99 %}",CCCCOc1ccccc1,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#6]-[#6]-[#6]-[#6]
+"{Chloromethyl ethyl ether, 95 %}",CCOCCl,[#8](-[#6]-[#17])-[#6]-[#6]
+"{4-Methylanisole, 99 %}",COc1ccc(C)cc1,[#8](-[c]1:[c]:[c]:[c](-[#6]):[c]:[c]1)-[#6]
+"{2-Methoxynaphthalene, 99 %}",COc1ccc2ccccc2c1,[#8](-[c]1:[c]:[c]:[c](:[c]:[c]:[c]:[c]2):[c]2:[c]1)-[#6]
+"{4,4'-Dimethoxybiphenyl, 99 %}",COc1ccc(cc1)c2ccc(OC)cc2,[#8](-[c]1:[c]:[c]:[c](-[c]2:[c]:[c]:[c](-[#8]-[#6]):[c]:[c]2):[c]:[c]1)-[#6]
+"{3-Methylanisole, 99 %}",COc1cccc(C)c1,[#8](-[c]1:[c]:[c]:[c]:[c](-[#6]):[c]1)-[#6]
+"{1-Methoxynaphthalene, 98+ %}",COc1cccc2ccccc12,[#8](-[c]1:[c]:[c]:[c]:[c](:[c]:[c]:[c]:[c]2):[c]12)-[#6]
+"{2,3-Dichloroanisole, 97+ %}",COc1cccc(Cl)c1Cl,[#8](-[c]1:[c]:[c]:[c]:[c](-[#17]):[c]1-[#17])-[#6]
+"{2,6-Dichloroanisole, 97 %}",COc1c(Cl)cccc1Cl,[#8](-[c]1:[c](:[c]:[c]:[c]:[c]1-[#17])-[#17])-[#6]
+"{3-Chloroanisole, 98 %}",COc1cccc(Cl)c1,[#8](-[c]1:[c]:[c]:[c]:[c](-[#17]):[c]1)-[#6]
+"{3,5-Dichloroanisole, 98 %}",COc1cc(Cl)cc(Cl)c1,[#8](-[c]1:[c]:[c](-[#17]):[c]:[c](-[#17]):[c]1)-[#6]
+"{1-Bromo-2,4-dimethoxybenzene, 97 %}",COc1ccc(Br)c(OC)c1,[#8](-[c]1:[c](:[c]:[c]:[c](-[#8]-[#6]):[c]1)-[#35])-[#6]
+"{alpha,4-Dichloroanisole, 97 %}",ClCOc1ccc(Cl)cc1,[#8](-[c]1:[c]:[c]:[c](-[#17]):[c]:[c]1)-[#6]-[#17]
+"{2-Bromoanisole, 97 %}",COc1ccccc1Br,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1-[#35])-[#6]
+"{2-Chloroanisole, 98 %}",COc1ccccc1Cl,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1-[#17])-[#6]
+"{Bromomethyl methyl ether, 90 % gradetech.}",COCBr,[#6](-[#35])-[#8]-[#6]
+"{beta-Methoxystyrene,mixture of cis and trans, gradetech. 90 %}",CO\C=C\c1ccccc1,[#6](/-[c]1:[c]:[c]:[c]:[c]:[c]1)=[#6]\-[#8]-[#6]
+"{3-Fluoroanisole, 99 %}",COc1cccc(F)c1,[#8](-[c]1:[c]:[c]:[c]:[c](-[#9]):[c]1)-[#6]
+"{Diethylene glycol monochlorohydrin, 99 %}",OCCOCCCl,[#8](-[#6]-[#6]-[#8])-[#6]-[#6]-[#17]
+"{Triethylene glycol monochlorohydrin, 98 %}",OCCOCCOCCCl,[#6](-[#8]-[#6]-[#6]-[#17])-[#6]-[#8]-[#6]-[#6]-[#8]
+"{3,4-Dimethoxytoluene, 96 %}",COc1ccc(C)cc1OC,[#8](-[c]1:[c]:[c]:[c](-[#6]):[c]:[c]1-[#8]-[#6])-[#6]
+"{3,4-Dibenzyloxybenzyl chloride}",ClCc1ccc(OCc2ccccc2)c(OCc3ccccc3)c1,[#8](-[c]1:[c]:[c](-[#6]-[#17]):[c]:[c]:[c]1-[#8]-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2)-[#6]-[c]3:[c]:[c]:[c]:[c]:[c]3
+"{2-Methoxybiphenyl, 99 %}",COc1ccccc1c2ccccc2,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1-[c]2:[c]:[c]:[c]:[c]:[c]2)-[#6]
+"{2,3,4,5,6-Pentafluoroanisole, 97+ %}",COc1c(F)c(F)c(F)c(F)c1F,[#8](-[c]1:[c](:[c](-[#9]):[c](-[#9]):[c](-[#9]):[c]1-[#9])-[#9])-[#6]
+"{1,3,3-Trimethoxybutane, 97 %}",COCCC(C)(OC)OC,[#6](-[#6])(-[#8]-[#6])(-[#8]-[#6])-[#6]-[#6]-[#8]-[#6]
+"{2-Bromo-6-methoxynaphthalene, 97 %}",COc1ccc2cc(Br)ccc2c1,[#8](-[c]1:[c]:[c]:[c](:[c]:[c](-[#35]):[c]:[c]2):[c]2:[c]1)-[#6]
+"{5-Chloro-1,3-dimethoxybenzene, 97 %}",COc1cc(Cl)cc(OC)c1,[#8](-[c]1:[c]:[c](-[#17]):[c]:[c](-[#8]-[#6]):[c]1)-[#6]
+"{4-Bromophenetole, 98 %}",CCOc1ccc(Br)cc1,[#8](-[c]1:[c]:[c]:[c](-[#35]):[c]:[c]1)-[#6]-[#6]
+"{3-(Trifluoromethyl)anisole, 99 %}",COc1cccc(c1)C(F)(F)F,[#6](-[c]1:[c]:[c]:[c]:[c](-[#8]-[#6]):[c]1)(-[#9])(-[#9])-[#9]
+"{2,7-Dimethoxynaphthalene, 98 %}",COc1ccc2ccc(OC)cc2c1,[#8](-[c]1:[c]:[c]:[c](:[c]:[c]:[c](-[#8]-[#6]):[c]2):[c]2:[c]1)-[#6]
+"{1-Methoxy-1,3-cyclohexadiene, gradetech. 65 %}",COC1=CC=CCC1,[#8](-[#6]1=[#6]-[#6]=[#6]-[#6]-[#6]1)-[#6]
+"{beta-Asarone, 70 %}",COc1cc(OC)c(\C=C/C)cc1OC,[#6](/-[c]1:[c]:[c](-[#8]-[#6]):[c](-[#8]-[#6]):[c]:[c]1-[#8]-[#6])=[#6]/-[#6]
+"{3,4,5-Trimethoxytoluene, 97 %}",COc1cc(C)cc(OC)c1OC,[#8](-[c]1:[c](:[c]:[c](-[#6]):[c]:[c]1-[#8]-[#6])-[#8]-[#6])-[#6]
+"{2,4,6-Trichloroanisole, 99 %}",COc1c(Cl)cc(Cl)cc1Cl,[#8](-[c]1:[c](:[c]:[c](-[#17]):[c]:[c]1-[#17])-[#17])-[#6]
+"{1,2-Bis(2-chloroethoxy)ethane, 97 %}",ClCCOCCOCCCl,[#6](-[#8]-[#6]-[#6]-[#17])-[#6]-[#8]-[#6]-[#6]-[#17]
+"{Phenetole, 99 %}",CCOc1ccccc1,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#6]-[#6]
+"{1,1,3-Trimethoxypropane, 99 %}",COCCC(OC)OC,[#6](-[#8]-[#6])(-[#8]-[#6])-[#6]-[#6]-[#8]-[#6]
+"{1-Bromo-2,5-dimethoxybenzene, 98 %}",COc1ccc(OC)c(Br)c1,[#8](-[c]1:[c]:[c]:[c](-[#8]-[#6]):[c](-[#35]):[c]1)-[#6]
+"{2-Iodoanisole, 98 %}",COc1ccccc1I,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1-[#53])-[#6]
+"{tert-Butyl ethyl ether, 99 %}",CCOC(C)(C)C,[#8](-[#6]-[#6])-[#6](-[#6])(-[#6])-[#6]
+"{Isoamyl ether, 99 %}",CCC(C)COCC(C)CC.CC(C)CCOCCC(C)C,[#6]-[#6](-[#6])-[#6]-[#6]-[#8]-[#6]-[#6]-[#6](-[#6])-[#6]
+"{Dihexyl ether, 97 %}",CCCCCCOCCCCCC,[#8](-[#6]-[#6]-[#6]-[#6]-[#6]-[#6])-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]
+"{Butyl ethyl ether, 99 %}",CCCCOCC,[#6](-[#8]-[#6]-[#6])-[#6]-[#6]-[#6]
+"{4-Methoxybenzyl chloride, 98 %}",COc1ccc(CCl)cc1,[#6](-[c]1:[c]:[c]:[c](-[#8]-[#6]):[c]:[c]1)-[#17]
+"{5-Methoxyindan, 97 %}",COc1ccc2CCCc2c1,[#8](-[c]1:[c]:[c]:[c](-[#6]-[#6]-[#6]2):[c]2:[c]1)-[#6]
+"{2,3-Dimethoxy-1,3-butadiene, 95 %}",COC(=C)C(=C)OC,[#6](=[#6])(-[#8]-[#6])-[#6](=[#6])-[#8]-[#6]
+"{1-tert-Butoxy-2-ethoxyethane, 98 %}",CCOCCOC(C)(C)C,[#6](-[#6]-[#8]-[#6]-[#6])-[#8]-[#6](-[#6])(-[#6])-[#6]
+"{1,2-Dimethoxypropane, 99+ %}",COCC(C)OC,[#6](-[#6])(-[#8]-[#6])-[#6]-[#8]-[#6]
+"{tert-Amyl methyl ether, 97 %}",CCC(C)(C)OC,[#6](-[#6])(-[#6])(-[#8]-[#6])-[#6]-[#6]
+"{Eugenol methyl ether, 99 %}",COc1ccc(CC=C)cc1OC,[#8](-[c]1:[c]:[c](-[#6]-[#6]=[#6]):[c]:[c]:[c]1-[#8]-[#6])-[#6]
+"{Bis(2,2,2-trifluoroethyl) ether, 99 %}",FC(F)(F)COCC(F)(F)F,[#6](-[#8]-[#6]-[#6](-[#9])(-[#9])-[#9])-[#6](-[#9])(-[#9])-[#9]
+"{4-Bromo-2-fluoroanisole, 97 %}",COc1ccc(Br)cc1F,[#8](-[c]1:[c]:[c]:[c](-[#35]):[c]:[c]1-[#9])-[#6]
+"{2,4-Dibromoanisole, 98 %}",COc1ccc(Br)cc1Br,[#8](-[c]1:[c]:[c]:[c](-[#35]):[c]:[c]1-[#35])-[#6]
+"{4-Chlorophenyl 2-bromoethyl ether, 98 %}",Clc1ccc(OCCBr)cc1,[#8](-[c]1:[c]:[c]:[c](-[#17]):[c]:[c]1)-[#6]-[#6]-[#35]
+"{(Trifluoromethoxy)benzene, 99 %}",FC(F)(F)Oc1ccccc1,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#6](-[#9])(-[#9])-[#9]
+"{1-Bromo-4-(trifluoromethoxy)benzene, 99 %}",FC(F)(F)Oc1ccc(Br)cc1,[#8](-[c]1:[c]:[c]:[c](-[#35]):[c]:[c]1)-[#6](-[#9])(-[#9])-[#9]
+"{(1R)-(-)-Nopol benzyl ether, 95 %}",CC1(C)C2CC=C(CCOCc3ccccc3)C1C2,[#6]1=[#6](-[#6]-[#6]-[#8]-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2)-[#6](-[#6@](-[#6])(-[#6])-[#6]3-[#6]1)-[#6]3
+"{1-Bromo-4-(1,1,2,2-tetrafluoroethoxy)benzene, 96 %}",FC(F)C(F)(F)Oc1ccc(Br)cc1,[c]1(-[#35]):[c]:[c]:[c](-[#8]-[#6](-[#9])(-[#9])-[#6](-[#1])(-[#9])-[#9]):[c]:[c]1
+"{1-Bromo-3-(trifluoromethoxy)benzene, 99 %}",FC(F)(F)Oc1cccc(Br)c1,[#8](-[c]1:[c]:[c]:[c]:[c](-[#35]):[c]1)-[#6](-[#9])(-[#9])-[#9]
+"{1,3-Dibromo-5-(trifluoromethoxy)benzene, 99 %}",FC(F)(F)Oc1cc(Br)cc(Br)c1,[#35]-[c](:[c]:[c](-[#8]-[#6](-[#9])(-[#9])-[#9]):[c]:[c]1-[#35]):[c]1
+"{2-Ethoxyanisole, 98 %}",CCOc1ccccc1OC,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1-[#8]-[#6])-[#6]-[#6]
+{2-Methoxyethoxymethyl chloride},COCCOCCl,[#6](-[#8]-[#6]-[#17])-[#6]-[#8]-[#6]
+"{1,2-Difluoro-4,5-dimethoxybenzene, 97 %}",COc1cc(F)c(F)cc1OC,[#9]-[c](:[c]:[c](-[#8]-[#6]):[c](-[#8]-[#6]):[c]1):[c]1-[#9]
+"{4-(Trifluoromethoxy)benzyl bromide, 97 %}",FC(F)(F)Oc1ccc(CBr)cc1,[#8](-[c]1:[c]:[c]:[c](-[#6]-[#35]):[c]:[c]1)-[#6](-[#9])(-[#9])-[#9]
+"{2-Ethyl-9,10-dimethoxyanthracene, 97 %}",CCc1ccc2c(OC)c3ccccc3c(OC)c2c1,[#8](-[c]1:[c]2:[c](:[c]:[c]:[c]:[c]2):[c](-[#8]-[#6]):[c](:[c]:[c]:[c](-[#6]-[#6]):[c]3):[c]13)-[#6]
+"{2-Chloro-3,5-difluoroanisole, 98 %}",COc1cc(F)cc(F)c1Cl,[#8](-[c]1:[c]:[c](-[#9]):[c]:[c](-[#9]):[c]1-[#17])-[#6]
+"{Phenoxyacetaldehyde dimethyl acetal, 99 %}",COC(COc1ccccc1)OC,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#6]-[#6](-[#8]-[#6])-[#8]-[#6]
+"{2-(Cyclohexyloxy)ethanol, 99 %}",OCCOC1CCCCC1,[#6]1-[#6]-[#6]-[#6](-[#8]-[#6]-[#6]-[#8])-[#6]-[#6]1
+"{Benzyl 3-bromopropyl ether, 98 %}",BrCCCOCc1ccccc1,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#8]-[#6]-[#6]-[#6]-[#35]
+"{2-Bromoethyl ether, 90 % gradetech.}",BrCCOCCBr,[#8](-[#6]-[#6]-[#35])-[#6]-[#6]-[#35]
+"{4-(Trifluoromethoxy)toluene, 98 %}",Cc1ccc(OC(F)(F)F)cc1,[#8](-[c]1:[c]:[c]:[c](-[#6]):[c]:[c]1)-[#6](-[#9])(-[#9])-[#9]
+"{Bromomethyl octyl ether, 90 % gradetech.}",CCCCCCCCOCBr,[#6](-[#6]-[#6]-[#8]-[#6]-[#35])-[#6]-[#6]-[#6]-[#6]-[#6]
+"{Benzyl phenyl ether, 98 %}",C(Oc1ccccc1)c2ccccc2,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#8]-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{3-Methoxy-3-methylbutanol, 98+ %}",COC(C)(C)CCO,[#6](-[#6])(-[#6])(-[#8]-[#6])-[#6]-[#6]-[#8]
+"{3-(Trifluoromethoxy)benzyl bromide, 97 %}",FC(F)(F)Oc1cccc(CBr)c1,[c]1:[c](-[#6]-[#35]):[c]:[c]:[c]:[c]1-[#8]-[#6](-[#9])(-[#9])-[#9]
+"{2,5-Dimethoxytoluene, 99 %}",COc1ccc(OC)c(C)c1,[#8](-[c]1:[c]:[c]:[c](-[#8]-[#6]):[c](-[#6]):[c]1)-[#6]
+"{3,5-Dimethoxytoluene, 99 %}",COc1cc(C)cc(OC)c1,[#8](-[c]1:[c]:[c](-[#6]):[c]:[c](-[#8]-[#6]):[c]1)-[#6]
+"{sec-Butyl methyl ether, 99 %}",CCC(C)OC,[#6](-[#6])(-[#8]-[#6])-[#6]-[#6]
+"{3,5-Diethoxytoluene, 97 %}",CCOc1cc(C)cc(OCC)c1,[c]1:[c](-[#6]):[c]:[c](-[#8]-[#6]-[#6]):[c]:[c]1-[#8]-[#6]-[#6]
+"{4-Methoxyphenoxyacetaldehyde diethyl acetal, 97 %}",CCOC(COc1ccc(OC)cc1)OCC,[#8](-[c]1:[c]:[c]:[c](-[#8]-[#6]):[c]:[c]1)-[#6]-[#6](-[#8]-[#6]-[#6])-[#8]-[#6]-[#6]
+"{1-tert-Butoxy-2-propanol, 99 %}",CC(O)COC(C)(C)C,[#8](-[#6]-[#6](-[#8])-[#6])-[#6](-[#6])(-[#6])-[#6]
+"{7-tert-Butoxy-2,5-norbornadiene, 96 %}",CC(C)(C)OC1C2C=CC1C=C2,[#6](-[#6])(-[#6])(-[#6])-[#8]-[#6](-[#6](-[#6]=[#6]1)-[#6]=[#6]2)-[#6]12
+"{(+)-Chloromethyl isomenthyl ether, 97 %}",CC(C)[C@H]1CC[C@@H](C)C[C@@H]1OCCl,[#6]1-[#6]-[#6@](-[#6](-[#6])-[#6])-[#6@@](-[#8]-[#6]-[#17])-[#6]-[#6@@]1-[#6]
+"{Benzyloxyacetaldehyde diethyl acetal, 95 %}",CCOC(COCc1ccccc1)OCC,[c]1(-[#6]-[#8]-[#6]-[#6](-[#8]-[#6]-[#6])-[#8]-[#6]-[#6]):[c]:[c]:[c]:[c]:[c]1
+"{cis-1,4-Dibenzyloxy-2-butene, 95 %}",C(OCc1ccccc1)\C=C/COCc2ccccc2,[#1]-[#6](/-[#6]-[#8]-[#6]-[c]1:[c]:[c]:[c]:[c]:[c]1)=[#6](/-[#6]-[#8]-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2)-[#1]
+"{1-Bromo-2-(2-methoxyethoxy)ethane, 90 %}",COCCOCCBr,[#6]-[#8]-[#6]-[#6]-[#8]-[#6]-[#6]-[#35]
+"{1,4-Dibromo-2,5-dimethoxybenzene, 97 %}",COc1cc(Br)c(OC)cc1Br,[#35]-[c](:[c](-[#8]-[#6]):[c]1):[c]:[c](-[#8]-[#6]):[c]1-[#35]
+"{4-(Trifluoromethoxy)anisole, 98 %}",COc1ccc(OC(F)(F)F)cc1,[c]1:[c]:[c](-[#8]-[#6](-[#9])(-[#9])-[#9]):[c]:[c]:[c]1-[#8]-[#6]
+"{1-Ethynyl-2-methoxybenzene, 97 %}",COc1ccccc1C#C,[c]1:[c](-[#6]#[#6]):[c](-[#8]-[#6]):[c]:[c]:[c]1
+"{1,4-Dimethoxynaphthalene, 97%}",COc1ccc(OC)c2ccccc12,[c]12:[c](:[c](-[#8]-[#6]):[c]:[c]:[c]1-[#8]-[#6]):[c]:[c]:[c]:[c]2
+"{Benzyl 2-bromoethyl ether, 97 %}",BrCCOCc1ccccc1,[c]1(-[#6]-[#8]-[#6]-[#6]-[#35]):[c]:[c]:[c]:[c]:[c]1
+"{2-Methoxybenzyl chloride, 98 %}",COc1ccccc1CCl,[c]1:[c]:[c]:[c]:[c](-[#8]-[#6]):[c]1-[#6]-[#17]
+"{1-Methoxy-2-butanol, 97 %}",CCC(O)COC,[#6]-[#6]-[#6](-[#8])-[#6]-[#8]-[#6]
+"{3,4,5-Trimethoxybenzaldehyde dimethyl acetal, 98 %}",COC(OC)c1cc(OC)c(OC)c(OC)c1,[c]1:[c](-[#8]-[#6]):[c](-[#8]-[#6]):[c](-[#8]-[#6]):[c]:[c]1-[#6](-[#8]-[#6])-[#8]-[#6]
+"{3,5-Dimethoxybenzyl bromide, 95 %}",COc1cc(CBr)cc(OC)c1,[c]1:[c](-[#8]-[#6]):[c]:[c](-[#8]-[#6]):[c]:[c]1-[#6]-[#35]
+"{2-Bromo-4-methylanisole, 97 %}",COc1ccc(C)cc1Br,[#35]-[c](:[c]:[c](-[#6]):[c]:[c]1):[c]1-[#8]-[#6]
+"{Di(ethylene glycol) benzyl ether, 97 %}",OCCOCCOCc1ccccc1,[c]1:[c](-[#6]-[#8]-[#6]-[#6]-[#8]-[#6]-[#6]-[#8]):[c]:[c]:[c]:[c]1
+"{Benzyl 4-bromophenyl ether, 96 %}",Brc1ccc(OCc2ccccc2)cc1,[c]1(-[#35]):[c]:[c]:[c](-[#8]-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2):[c]:[c]1
+{sec-Butyl ether},CCC(C)OC(C)CC,[#6]-[#6]-[#6](-[#6])-[#8]-[#6](-[#6])-[#6]-[#6]
+"{3-Chlorophenetole, 97 %}",CCOc1cccc(Cl)c1,[c]1:[c](-[#8]-[#6]-[#6]):[c]:[c](-[#17]):[c]:[c]1
+"{1,2-Dihexyloxybenzene, 98 %}",CCCCCCOc1ccccc1OCCCCCC,[c]1:[c]:[c](-[#8]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]):[c](-[#8]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]):[c]:[c]1
+"{5-Bromo-2-chloroanisole, 97 %}",COc1cc(Br)ccc1Cl,[c]1:[c](-[#8]-[#6]):[c](-[#17]):[c]:[c]:[c]1-[#35]
+"{2-Methoxycyclohexanol,mixture of cis and trans, 98 %}",COC1CCCCC1O,[#6]1-[#6](-[#8])-[#6](-[#8]-[#6])-[#6]-[#6]-[#6]1
+"{3-Ethynylanisole, 96 %}",COc1cccc(c1)C#C,[c]1:[c](-[#8]-[#6]):[c]:[c](-[#6]#[#6]):[c]:[c]1
+"{1-Bromo-4-methoxy-2,5-dimethylbenzene, 98 %}",COc1cc(C)c(Br)cc1C,[c]1:[c](-[#35]):[c](-[#6]):[c]:[c](-[#8]-[#6]):[c]1-[#6]
+"{2-Benzyloxybromobenzene, 96 %}",Brc1ccccc1OCc2ccccc2,[c]1:[c]:[c](-[#6]-[#8]-[c]2:[c](-[#35]):[c]:[c]:[c]:[c]2):[c]:[c]:[c]1
+"{1-Ethynyl-4-methoxy-2-methylbenzene, 97 %}",COc1ccc(C#C)c(C)c1,[c]1(-[#6]#[#6]):[c](-[#6]):[c]:[c](-[#8]-[#6]):[c]:[c]1
+"{3-Chloro-2-methylanisole, 90 %}",COc1cccc(Cl)c1C,[c]1:[c](-[#8]-[#6]):[c](-[#6]):[c](-[#17]):[c]:[c]1
+"{4-Methoxy-3-nitrobenzyl alcohol, 97 %}",COc1ccc(CO)cc1[N+](=O)[O-],[c]1:[c](-[#6]-[#8]):[c]:[c](-[#7+](=[#8])-[#8-]):[c](-[#8]-[#6]):[c]1
+"{4-Pentyloxybenzyl alcohol, 98 %}",CCCCCOc1ccc(CO)cc1,[c]1:[c](-[#6]-[#8]):[c]:[c]:[c](-[#8]-[#6]-[#6]-[#6]-[#6]-[#6]):[c]1
+"{(S)-(-)-1,2-Di-O-benzylglycerol, 96 %}",OC[C@@H](COCc1ccccc1)OCc2ccccc2,[c]1:[c]:[c]:[c](-[#6]-[#8]-[#6]-[#6@@](-[#1])(-[#8]-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2)-[#6]-[#8]):[c]:[c]1
+"{2-Fluoro-4,5-dimethoxybenzyl chloride}",COc1cc(F)c(CCl)cc1OC,[c]1:[c](-[#6]-[#17]):[c](-[#9]):[c]:[c](-[#8]-[#6]):[c]1-[#8]-[#6]
+"{4-Isopropylanisole, 97 %}",COc1ccc(cc1)C(C)C,[c]1:[c](-[#8]-[#6]):[c]:[c]:[c](-[#6](-[#6])-[#6]):[c]1
+"{4-Chloro-2-methylanisole, 97 %}",COc1ccc(Cl)cc1C,[c]1:[c](-[#8]-[#6]):[c](-[#6]):[c]:[c](-[#17]):[c]1
+"{4-Ethylanisole, 97 %}",CCc1ccc(OC)cc1,[c]1:[c](-[#8]-[#6]):[c]:[c]:[c](-[#6]-[#6]):[c]1
+"{4-Iodophenetole, 97 %}",CCOc1ccc(I)cc1,[c]1(-[#53]):[c]:[c]:[c](-[#8]-[#6]-[#6]):[c]:[c]1
+"{(R)-(+)-1-(4-Methoxybenzyl)-1,2,3,4,5,6,7,8-octahydroisoquinoline, 97 %}",COc1ccc(C[C@@H]2NCCC3=C2CCCC3)cc1,[#6]1-[#6]-[#6](-[#6]-[#6]-[#7]-[#6@]2-[#6]-[c]3:[c]:[c]:[c](-[#8]-[#6]):[c]:[c]3)=[#6]2-[#6]-[#6]1
+"{4-(Difluoromethoxy)iodobenzene, 97 %}",FC(F)Oc1ccc(I)cc1,[c]1:[c](-[#53]):[c]:[c]:[c](-[#8]-[#6](-[#9])-[#9]):[c]1
+"{1,4-Diethoxybenzene}",CCOc1ccc(OCC)cc1,[c]1:[c]:[c](-[#8]-[#6]-[#6]):[c]:[c]:[c]1-[#8]-[#6]-[#6]
+"{1,5-Dimethoxypentane}",COCCCCCOC,[#6]-[#8]-[#6]-[#6]-[#6]-[#6]-[#6]-[#8]-[#6]
+"{1,4-Bis(2-ethylhexyloxy)benzene}",CCCCC(CC)COc1ccc(OCC(CC)CCCC)cc1,[c]1:[c](-[#8]-[#6]-[#6](-[#6]-[#6])-[#6]-[#6]-[#6]-[#6]):[c]:[c]:[c](-[#8]-[#6]-[#6](-[#6]-[#6])-[#6]-[#6]-[#6]-[#6]):[c]1
+{1-[(2-Ethylhexyl)oxy]-4-methoxybenzene},CCCCC(CC)COc1ccc(OC)cc1,[c]1(-[#8]-[#6]):[c]:[c]:[c](-[#8]-[#6]-[#6](-[#6]-[#6])-[#6]-[#6]-[#6]-[#6]):[c]:[c]1
+"{2,4-Dinitro-1-(trifluoromethoxy)benzene}",[O-][N+](=O)c1ccc(OC(F)(F)F)c(c1)[N+](=O)[O-],[c]1:[c](-[#8]-[#6](-[#9])(-[#9])-[#9]):[c](-[#7+](=[#8])-[#8-]):[c]:[c](-[#7+](-[#8-])=[#8]):[c]1
+"{4-Bromo-2,3-dimethylanisole}",COc1ccc(Br)c(C)c1C,[c]1:[c](-[#8]-[#6]):[c](-[#6]):[c](-[#6]):[c](-[#35]):[c]1
+{2-Isopropylanisole},COc1ccccc1C(C)C,[c]1:[c](-[#8]-[#6]):[c](-[#6](-[#6])-[#6]):[c]:[c]:[c]1
+{2-Bromo-5-methoxybenzyl bromide},COc1ccc(Br)c(CBr)c1,[c]1:[c](-[#6]-[#35]):[c](-[#35]):[c]:[c]:[c]1-[#8]-[#6]
+{1-Bromo-3-(difluoromethoxy)benzene},FC(F)Oc1cccc(Br)c1,[c]1:[c](-[#35]):[c]:[c](-[#8]-[#6](-[#9])-[#9]):[c]:[c]1
+"{2,3,4-(Trimethoxy)bromobenzene}",COc1ccc(Br)c(OC)c1OC,[c]1:[c](-[#35]):[c](-[#8]-[#6]):[c](-[#8]-[#6]):[c](-[#8]-[#6]):[c]1
+"{2-(Trifluoromethoxy)iodobenzene, 97 %}",FC(F)(F)Oc1ccccc1I,[c]1:[c]:[c](-[#53]):[c](-[#8]-[#6](-[#9])(-[#9])-[#9]):[c]:[c]1
+"{1-Methoxy-4-[3',7'-dimethyloctyl)oxy]benzene}",COc1ccc(OCCC(C)CCCC(C)C)cc1,[c]1:[c](-[#8]-[#6]):[c]:[c]:[c](-[#8]-[#6]-[#6]-[#6](-[#6])-[#6]-[#6]-[#6]-[#6](-[#6])-[#6]):[c]1
+"{1,4-Di(octyloxy)benzene}",CCCCCCCCOc1ccc(OCCCCCCCC)cc1,[c]1:[c](-[#8]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]):[c]:[c]:[c](-[#8]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]):[c]1
+"{2-Fluoro-5-methylanisole, 97 %}",COc1cc(C)ccc1F,[c]1:[c](-[#8]-[#6]):[c](-[#9]):[c]:[c]:[c]1-[#6]
+"{2-Methoxy-5-(2'-ethylhexyloxy)-1,4-bis(hydroxymethyl)benzene}",CCCCC(CC)COc1cc(CO)c(OC)cc1CO,[c]1:[c](-[#8]-[#6]):[c](-[#6]-[#8]):[c]:[c](-[#8]-[#6]-[#6](-[#6]-[#6])-[#6]-[#6]-[#6]-[#6]):[c]1-[#6]-[#8]
+"{2-Methoxy-5-(3',7'-dimethyloctyloxy)-1,4-bis(hydroxymethyl)benzene}",COc1cc(CO)c(OCCC(C)CCCC(C)C)cc1CO,[c]1:[c](-[#8]-[#6]):[c](-[#6]-[#8]):[c]:[c](-[#8]-[#6]-[#6]-[#6](-[#6])-[#6]-[#6]-[#6]-[#6](-[#6])-[#6]):[c]1-[#6]-[#8]
+"{2,5-(Bishexyloxy)-1,4-bis(hydroxymethyl)benzene}",CCCCCCOc1cc(CO)c(OCCCCCC)cc1CO,[c]1:[c](-[#8]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]):[c](-[#6]-[#8]):[c]:[c](-[#8]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]):[c]1-[#6]-[#8]
+{2-Vinylanisole},COc1ccccc1C=C,[c]1:[c](-[#8]-[#6]):[c](-[#6]=[#6]):[c]:[c]:[c]1
+{3-Vinylanisole},COc1cccc(C=C)c1,[c]1:[c](-[#8]-[#6]):[c]:[c](-[#6]=[#6]):[c]:[c]1
+{3-(Trifluoromethoxy)iodobenzene},FC(F)(F)Oc1cccc(I)c1,[c]1:[c]:[c]:[c](-[#8]-[#6](-[#9])(-[#9])-[#9]):[c]:[c]1-[#53]
+"{1,2,3,5-Tetramethoxybenzene}",COc1cc(OC)c(OC)c(OC)c1,[c]1:[c](-[#8]-[#6]):[c](-[#8]-[#6]):[c](-[#8]-[#6]):[c]:[c]1-[#8]-[#6]
+"{1,4-Dihydroxy-2,6-dimethoxybenzene}",COc1cc(O)cc(OC)c1O,[c]1(-[#8]-[#6]):[c](-[#8]):[c](-[#8]-[#6]):[c]:[c](-[#8]):[c]1
+{1-Methoxy-2-methyl-2-propanol},COCC(C)(C)O,[#6]-[#6](-[#6])(-[#8])-[#6]-[#8]-[#6]
+{1-Methoxy-3-(2-nitrovinyl)benzene},COc1cccc(\C=C\[N+](=O)[O-])c1,[c]1:[c]:[c]:[c](\-[#6]=[#6]\-[#7+](=[#8])-[#8-]):[c]:[c]1-[#8]-[#6]
+"{1-Bromo-3,5-dimethoxybenzene, 97%}",COc1cc(Br)cc(OC)c1,[c]1:[c](-[#35]):[c]:[c](-[#8]-[#6]):[c]:[c]1-[#8]-[#6]
+"{3-(4-Methoxyphenoxy)-1-iodopropane, 95%}",COc1ccc(OCCCI)cc1,[c]1:[c](-[#8]-[#6]-[#6]-[#6]-[#53]):[c]:[c]:[c](-[#8]-[#6]):[c]1
+"{1,7-Dimethoxynaphthalene, 97 %}",COc1ccc2cccc(OC)c2c1,[c]1:[c](-[#8]-[#6]):[c](:[c]:[c](-[#8]-[#6]):[c]:[c]2):[c]2:[c]:[c]1
+"{2-Bromo-4,6-difluoroanisole, 97 %}",COc1c(F)cc(F)cc1Br,[c]1(-[#9]):[c](-[#8]-[#6]):[c](-[#35]):[c]:[c](-[#9]):[c]1
+"{Allyl-2-bromobenzyl ether, 95 %}",Brc1ccccc1COCC=C,[c]1:[c]:[c](-[#6]-[#8]-[#6]-[#6]=[#6]):[c](-[#35]):[c]:[c]1
+"{1-Ethynyl-3,5-dimethoxybenzene, 98 %}",COc1cc(OC)cc(c1)C#C,[c]1:[c](-[#8]-[#6]):[c]:[c](-[#6]#[#6]):[c]:[c]1-[#8]-[#6]
+"{2,5-Diethoxytoluene, 97 %}",CCOc1ccc(OCC)c(C)c1,[c]1:[c](-[#6]):[c](-[#8]-[#6]-[#6]):[c]:[c]:[c]1-[#8]-[#6]-[#6]
+"{2,6-Diethoxytoluene, 97 %}",CCOc1cccc(OCC)c1C,[c]1(-[#8]-[#6]-[#6]):[c](-[#6]):[c](-[#8]-[#6]-[#6]):[c]:[c]:[c]1
+"{2,3-Dimethoxynaphthalene, 97 %}",COc1cc2ccccc2cc1OC,[c]12:[c](:[c]:[c]:[c]:[c]1):[c]:[c](-[#8]-[#6]):[c](-[#8]-[#6]):[c]2
+"{1-(1,1-Dimethylheptyl)-3,5-dimethoxybenzene, 97 %}",CCCCCCC(C)(C)c1cc(OC)cc(OC)c1,[c]1:[c](-[#8]-[#6]):[c]:[c](-[#6](-[#6])(-[#6])-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]):[c]:[c]1-[#8]-[#6]
+"{2,2'-Dimethoxy-1,1'-binaphthalene, 97 %}",COc1ccc2ccccc2c1c3c(OC)ccc4ccccc34,[c]1:[c]:[c](:[c]:[c]:[c](-[#8]-[#6]):[c]2-[c]3:[c](-[#8]-[#6]):[c]:[c]:[c](:[c]:[c]:[c]:[c]4):[c]34):[c]2:[c]:[c]1
+"{1-Iodo-2,6-dimethoxybenzene, 97 %}",COc1cccc(OC)c1I,[c]1:[c](-[#8]-[#6]):[c](-[#53]):[c](-[#8]-[#6]):[c]:[c]1
+"{2-Benzyloxy-trans-beta-nitrostyrene, 97 %}",[O-][N+](=O)\C=C\c1ccccc1OCc2ccccc2,[c]1(\-[#6](-[#1])=[#6](\-[#7+](=[#8])-[#8-])-[#1]):[c](-[#8]-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2):[c]:[c]:[c]:[c]1
+"{4-Benzyloxy-trans-beta-nitrostyrene, 97 %}",[O-][N+](=O)\C=C\c1ccc(OCc2ccccc2)cc1,[c]1(\-[#6](-[#1])=[#6](\-[#7+](=[#8])-[#8-])-[#1]):[c]:[c]:[c](-[#8]-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2):[c]:[c]1
+"{3-Benzyloxy-trans-beta-nitrostyrene, 97 %}",[O-][N+](=O)\C=C\c1cccc(OCc2ccccc2)c1,[c]1(\-[#6](-[#1])=[#6](\-[#7+](=[#8])-[#8-])-[#1]):[c]:[c]:[c]:[c](-[#8]-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2):[c]1
+"{2-Chloro-3,4-dimethoxy-trans-beta-nitrostyrene, 97%}",COc1ccc(\C=C\[N+](=O)[O-])c(Cl)c1OC,[c]1(\-[#6](-[#1])=[#6](\-[#7+](=[#8])-[#8-])-[#1]):[c](-[#17]):[c](-[#8]-[#6]):[c](-[#8]-[#6]):[c]:[c]1
+"{4-Bromo-2,6-dimethylanisole, 97%}",COc1c(C)cc(Br)cc1C,[c]1(-[#6]):[c](-[#8]-[#6]):[c](-[#6]):[c]:[c](-[#35]):[c]1
+"{1,5-Dimethoxy-1,4-cyclohexadiene}",COC1=CCC=C(C1)OC,[#6](-[#8]-[#6])(-[#6]-[#6](-[#8]-[#6])=[#6]-[#6]1)=[#6]1
+"{4-Allylanisole, 98 %}",COc1ccc(CC=C)cc1,[#6](-[c]1:[c]:[c]:[c](-[#8]-[#6]):[c]:[c]1)-[#6]=[#6]
+"{Batyl alcohol, 99 %}",CCCCCCCCCCCCCCCCCCOCC(O)CO,[#6](-[#6]-[#6]-[#8]-[#6]-[#6](-[#8])-[#6]-[#8])-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]
+"{2-Bromoethyl ethyl ether, 90 % gradetech.}",CCOCCBr,[#6](-[#6]-[#35])-[#8]-[#6]-[#6]
+"{beta-Bromophenetole, 98 %}",BrCCOc1ccccc1,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#6]-[#6]-[#35]
+"{4-Bromoveratrole, 98 %}",COc1ccc(Br)cc1OC,[#8](-[c]1:[c]:[c]:[c](-[#35]):[c]:[c]1-[#8]-[#6])-[#6]
+"{1,4-Dimethoxybenzene, 99 %}",COc1ccc(OC)cc1,[#8](-[c]1:[c]:[c]:[c](-[#8]-[#6]):[c]:[c]1)-[#6]
+"{3,3'-Dimethoxybiphenyl, 97 %}",COc1cccc(c1)c2cccc(OC)c2,[#8](-[c]1:[c]:[c]:[c]:[c](-[c]2:[c]:[c]:[c]:[c](-[#8]-[#6]):[c]2):[c]1)-[#6]
+"{3-Methyl-N-phenylmaleimide, 99 %   @@@ (mixture of isomers)}",COc1ccc(\C=C\C)cc1OC,[#8](-[c]1:[c]:[c](\-[#6]=[#6]\-[#6]):[c]:[c]:[c]1-[#8]-[#6])-[#6]
+"{2,6-Dimethoxytoluene, 98 %}",COc1cccc(OC)c1C,[#8](-[c]1:[c]:[c]:[c]:[c](-[#8]-[#6]):[c]1-[#6])-[#6]
+"{2,6-Dimethylanisole, 98 %}",COc1c(C)cccc1C,[#8](-[c]1:[c](:[c]:[c]:[c]:[c]1-[#6])-[#6])-[#6]
+"{3,5-Dimethylanisole, 99+ %}",COc1cc(C)cc(C)c1,[#8](-[c]1:[c]:[c](-[#6]):[c]:[c](-[#6]):[c]1)-[#6]
+"{Dipentaerythritol, gradetech.}",OCC(CO)(CO)COCC(CO)(CO)CO,[#6](-[#6]-[#8])(-[#6]-[#8])(-[#6]-[#8])-[#6]-[#8]-[#6]-[#6](-[#6]-[#8])(-[#6]-[#8])-[#6]-[#8]
+"{Dipropylene glycol, 99 % mixture of isomers}",CC(O)COCC(C)O.CC(O)COC(C)CO.CC(CO)OC(C)CO,[#8]-[#6](-[#6])-[#6]-[#8]-[#6](-[#6])-[#6]-[#8]
+"{3-Ethoxy-1-propanol, 97 %}",CCOCCCO,[#6](-[#8]-[#6]-[#6])-[#6]-[#6]-[#8]
+"{3-Ethoxypropionaldehyde diethyl acetal, 95 %}",CCOCCC(OCC)OCC,[#6](-[#8]-[#6]-[#6])(-[#8]-[#6]-[#6])-[#6]-[#6]-[#8]-[#6]-[#6]
+"{2-Fluoroanisole, 98 %}",COc1ccccc1F,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1-[#9])-[#6]
+"{4-Fluoroanisole, 99 %}",COc1ccc(F)cc1,[#8](-[c]1:[c]:[c]:[c](-[#9]):[c]:[c]1)-[#6]
+"{4-Iodoanisole, 98 %}",COc1ccc(I)cc1,[#8](-[c]1:[c]:[c]:[c](-[#53]):[c]:[c]1)-[#6]
+"{1-Methoxy-1,3-butadiene, 98 %}",CO\C=C\C=C,[#6](/-[#6]=[#6])=[#6]\-[#8]-[#6]
+"{3-Methoxy-1-butanol, 99 %}",COC(C)CCO,[#6](-[#6])(-[#8]-[#6])-[#6]-[#6]-[#8]
+"{3-Methoxybutyraldehyde dimethyl acetal, 98 %}",COC(C)CC(OC)OC,[#6](-[#8]-[#6])(-[#8]-[#6])-[#6]-[#6](-[#6])-[#8]-[#6]
+"{2-Methylanisole, 99 %}",COc1ccccc1C,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1-[#6])-[#6]
+"{3-Phenoxypropyl bromide, 96 %}",BrCCCOc1ccccc1,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#6]-[#6]-[#6]-[#35]
+"{Triethylene glycol, 99 %}",OCCOCCOCCO,[#6](-[#8]-[#6]-[#6]-[#8])-[#6]-[#8]-[#6]-[#6]-[#8]
+"{1,2,4-Trimethoxybenzene, 97 %}",COc1ccc(OC)c(OC)c1,[#8](-[c]1:[c]:[c](-[#8]-[#6]):[c]:[c]:[c]1-[#8]-[#6])-[#6]

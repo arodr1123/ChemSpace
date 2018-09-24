@@ -1,0 +1,201 @@
+Name,Canonical_Smiles,SMARTS
+"{N-Benzyl-N-ethylaniline, 99 %}",CCN(Cc1ccccc1)c2ccccc2,[#7](-[c]1:[c]:[c]:[c]:[c]:[c]1)(-[#6]-[#6])-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{(+)-Dehydroabietylamine, gradetech. 60 % 60 %}",CC(C)c1ccc2c(CCC3C(C)(CN)CCC[C@]23C)c1,[#6]-[#6@]12-[#6](-[#1])(-[#6]-[#6]-[c](:[c]:[c](-[#6](-[#6])-[#6]):[c]:[c]3):[c]13)-[#6](-[#6]-[#6]-[#6]2)(-[#6])-[#6]-[#7]
+"{N,N-Diphenylhydrazine hydrochloride, 97 %}",Cl.NN(c1ccccc1)c2ccccc2,[#7](-[c]1:[c]:[c]:[c]:[c]:[c]1)(-[c]2:[c]:[c]:[c]:[c]:[c]2)-[#7]
+"{Aminoacetaldehyde dimethyl acetal, 99 %}",COC(CN)OC,[#6](-[#8]-[#6])(-[#8]-[#6])-[#6]-[#7]
+"{4-Amino-2,5-dimethylphenol, gradetech.}",Cc1cc(O)c(C)cc1N,[#6]-[c]1:[c]:[c](-[#8]):[c](-[#6]):[c]:[c]1-[#7]
+{Hydrazobenzene},N(Nc1ccccc1)c2ccccc2,[#7](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#7]-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{N-Methylethylenediamine, 95 %}",CNCCN,[#6](-[#7]-[#6])-[#6]-[#7]
+"{N'-Benzyl-N,N-dimethylethylenediamine, 95 %}",CN(C)CCNCc1ccccc1,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#7]-[#6]-[#6]-[#7](-[#6])-[#6]
+"{2,2,2-Trifluoroethylhydrazine solution, 70 wt. % in water}",NNCC(F)(F)F,[#6](-[#7]-[#7])-[#6](-[#9])(-[#9])-[#9]
+"{Bis(2-hydroxypropyl)amine, 95 %}",CC(O)CNCC(C)O,[#7](-[#6]-[#6](-[#8])-[#6])-[#6]-[#6](-[#8])-[#6]
+"{Diisobutylamine, 99 %}",CC(C)CNCC(C)C,[#7](-[#6]-[#6](-[#6])-[#6])-[#6]-[#6](-[#6])-[#6]
+"{3,3-Diphenylpropylamine, 97 %}",NCCC(c1ccccc1)c2ccccc2,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)(-[c]2:[c]:[c]:[c]:[c]:[c]2)-[#6]-[#6]-[#7]
+"{D(+)-Galactosamine hydrochloride, 98 %}",Cl.NC(C=O)C(O)C(O)C(O)CO,[#6](-[#8])(-[#6](-[#7])-[#6]=[#8])-[#6](-[#8])-[#6](-[#8])-[#6]-[#8]
+"{1-Adamantylamine, 97 %}",NC12CC3CC(CC(C3)C1)C2,[#7]-[#6]12-[#6]-[#6](-[#6]-[#6](-[#6]-[#6]3-[#6]1)-[#6]2)-[#6]3
+"{3-Methyl-1-(p-tolyl)triazene, 98 %}",CNN=Nc1ccc(C)cc1,[#7](-[c]1:[c]:[c]:[c](-[#6]):[c]:[c]1)=[#7]-[#7]-[#6]
+"{N,N-Dimethylformamide dineopentyl acetal, 99 %}",CN(C)C(OCC(C)(C)C)OCC(C)(C)C,[#6](-[#7](-[#6])-[#6])(-[#8]-[#6]-[#6](-[#6])(-[#6])-[#6])-[#8]-[#6]-[#6](-[#6])(-[#6])-[#6]
+"{4-Amino-alpha-diethylamino-o-cresol dihydrochloride, 97 %}",Cl.CCN(CC)Cc1cc(N)ccc1O,[#6](-[c]1:[c]:[c](-[#7]):[c]:[c]:[c]1-[#8])-[#7](-[#6]-[#6])-[#6]-[#6]
+"{N,N-Dimethylformamide dicyclohexyl acetal}",CN(C)C(OC1CCCCC1)OC2CCCCC2,[#6](-[#7](-[#6])-[#6])(-[#8]-[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]1)-[#8]-[#6]2-[#6]-[#6]-[#6]-[#6]-[#6]2
+"{9-Aminophenanthrene, 96 %}",Nc1cc2ccccc2c3ccccc13,[#7]-[c]1:[c]:[c]2:[c](:[c]:[c]:[c]:[c]2):[c](:[c]:[c]:[c]:[c]3):[c]13
+"{6-Hydroxydopamine hydrochloride, 98 %}",Cl.NCCc1cc(O)c(O)cc1O,[#6](-[c]1:[c]:[c](-[#8]):[c](-[#8]):[c]:[c]1-[#8])-[#6]-[#7]
+"{3-Chloro-o-anisidine, 97 %}",COc1c(N)cccc1Cl,[c]1:[c](-[#7]):[c](-[#8]-[#6]):[c](-[#17]):[c]:[c]1
+"{2,4-Dichlorophenylhydrazine hydrochloride, 98 %}",Cl.NNc1ccc(Cl)cc1Cl,[#7](-[c]1:[c]:[c]:[c](-[#17]):[c]:[c]1-[#17])-[#7]
+"{Pentafluorophenylhydrazine, 97 %}",NNc1c(F)c(F)c(F)c(F)c1F,[#7](-[c]1:[c](:[c](-[#9]):[c](-[#9]):[c](-[#9]):[c]1-[#9])-[#9])-[#7]
+"{2,6-Diisopropylaniline, gradetech. 90 %}",CC(C)c1cccc(C(C)C)c1N,[#6](-[c]1:[c]:[c]:[c]:[c](-[#6](-[#6])-[#6]):[c]1-[#7])(-[#6])-[#6]
+{Proton-sponge(R);},CN(C)c1cccc2cccc(N(C)C)c12,[#7](-[c]1:[c]:[c]:[c]:[c](:[c]:[c]:[c]:[c]2-[#7](-[#6])-[#6]):[c]12)(-[#6])-[#6]
+"{2-Aminopentane, 97 %}",CCCC(C)N,[#6]-[#6]-[#6]-[#6](-[#6])-[#7]
+"{tert-Amylamine, 98 %}",CCC(C)(C)N,[#6](-[#7])(-[#6])(-[#6])-[#6]-[#6]
+"{m-(o-Toluidino)phenol, 96 %}",Cc1ccccc1Nc2cccc(O)c2,[c]1:[c]:[c]:[c](-[#7]-[c]2:[c]:[c](-[#8]):[c]:[c]:[c]2):[c](-[#6]):[c]1
+"{beta-Methylphenethylamine, 99 %}",CC(CN)c1ccccc1,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)(-[#6])-[#6]-[#7]
+"{N,N-Dimethylbenzylamine, 99+ %}",CN(C)Cc1ccccc1,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#7](-[#6])-[#6]
+"{1,2-Dimethylpropylamine, 98+ %}",CC(C)C(C)N,[#6](-[#6])(-[#6])-[#6](-[#7])-[#6]
+"{1-Aminomethyl-1-cyclohexanol hydrochloride, 98 %}",Cl.NCC1(O)CCCCC1,[#6](-[#6]1(-[#6]-[#6]-[#6]-[#6]-[#6]1)-[#8])-[#7]
+"{2-Amino-4-tert-butylphenol, 98 %}",CC(C)(C)c1ccc(O)c(N)c1,[#6](-[c]1:[c]:[c]:[c](-[#8]):[c](-[#7]):[c]1)(-[#6])(-[#6])-[#6]
+"{Trimethylphenylammonium chloride, 98+ %}",[Cl-].C[N+](C)(C)c1ccccc1,[#7+](-[c]1:[c]:[c]:[c]:[c]:[c]1)(-[#6])(-[#6])-[#6]
+"{N-Methylaniline trifluoroacetate salt, 99 %}",C[NH2+]c1ccccc1.[O-]C(=O)C(F)(F)F,[#1]-[#7+](-[#6])(-[c](:[c]:[c]:[c]:[c]1):[c]1)-[#1]
+"{N-Benzyl-tert-butylamine, 97 %}",CC(C)(C)NCc1ccccc1,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#7]-[#6](-[#6])(-[#6])-[#6]
+{Tris(dimethylamino)methane},CN(C)C(N(C)C)N(C)C,[#6](-[#7](-[#6])-[#6])(-[#7](-[#6])-[#6])-[#7](-[#6])-[#6]
+"{N,N-Dimethylhydroxylamine hydrochloride, 99 %}",Cl.CN(C)O,[#7](-[#8])(-[#6])-[#6]
+"{1-Piperonylpiperazine, 97 %}",C(N1CCNCC1)c2ccc3OCOc3c2,[#6](-[#7]1-[#6]-[#6]-[#7]-[#6]-[#6]1)-[c]2:[c]:[c]:[c](-[#8]-[#6]-[#8]3):[c]3:[c]2
+"{Methoxylamine hydrochloride solution, 25-30 wt. % in water}",Cl.CON,[#8](-[#7])-[#6]
+"{Chirald(R);, 99 %}",CC(CN(C)C)C(O)(Cc1ccccc1)c2ccccc2,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)(-[#8])(-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2)-[#6](-[#6])-[#6]-[#7](-[#6])-[#6]
+"{N,N,2,2-Tetramethyl-1,3-propanediamine, 97 %}",CN(C)CC(C)(C)CN,[#6](-[#7](-[#6])-[#6])-[#6](-[#6])(-[#6])-[#6]-[#7]
+"{1,2-Diethylhydrazine dihydrochloride}",Cl.CCNNCC,[#7](-[#6]-[#6])-[#7]-[#6]-[#6]
+"{4-Tetradecylaniline, 97 %}",CCCCCCCCCCCCCCc1ccc(N)cc1,[#6](-[c]1:[c]:[c]:[c](-[#7]):[c]:[c]1)-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]
+"{(1R,2S)-(-)-N-Methylephedrine, 99 %}",CC(C(O)c1ccccc1)N(C)C,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)(-[#8])-[#6](-[#6])-[#7](-[#6])-[#6]
+"{Tetraethylammonium iodide, 98 %}",[I-].CC[N+](CC)(CC)CC,[#7+](-[#6]-[#6])(-[#6]-[#6])(-[#6]-[#6])-[#6]-[#6]
+"{Tetramethylammonium iodide, 99 %}",[I-].C[N+](C)(C)C,[#7+](-[#6])(-[#6])(-[#6])-[#6]
+"{1,2-Bis(3-aminopropylamino)ethane, gradetech. 94 %}",NCCCNCCNCCCN,[#6](-[#7]-[#6]-[#6]-[#6]-[#7])-[#6]-[#7]-[#6]-[#6]-[#6]-[#7]
+"{2,4-Dimethylaniline, 99+ %}",Cc1ccc(N)c(C)c1,[#6]-[c]1:[c]:[c](-[#6]):[c]:[c]:[c]1-[#7]
+"{Domiphen bromide, 97 %}",[Br-].CCCCCCCCCCCC[N+](C)(C)CCOc1ccccc1,[#8](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#6]-[#6]-[#7+](-[#6])(-[#6])-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]
+"{N-Isopropylhydroxylamine hydrochloride, 97 %}",Cl.CC(C)NO,[#6](-[#6])(-[#6])-[#7]-[#8]
+"{O-Allylhydroxylamine hydrochloride hydrate, 97 %}",O.Cl.NOCC=C,[#6](=[#6])-[#6]-[#8]-[#7]
+"{Tributylmethylammonium chloride solution, 75 wt. % in water}",[Cl-].CCCC[N+](C)(CCCC)CCCC,[#7+](-[#6])(-[#6]-[#6]-[#6]-[#6])(-[#6]-[#6]-[#6]-[#6])-[#6]-[#6]-[#6]-[#6]
+"{N,N-Dimethylacetamide dimethyl acetal, 90 %}",COC(C)(OC)N(C)C,[#6](-[#6])(-[#8]-[#6])(-[#8]-[#6])-[#7](-[#6])-[#6]
+"{5-Amino-2-methoxyphenol, 98 %}",COc1ccc(N)cc1O,[#8](-[c]1:[c]:[c]:[c](-[#7]):[c]:[c]1-[#8])-[#6]
+"{6-(Dimethylamino)fulvene, 98 %}",CN(C)C=C1C=CC=C1,[#6](=[#6](\-[#6]=[#6]1)/-[#6]=[#6]1)/-[#7](-[#6])-[#6]
+"{2,4,6-Triphenylaniline, 97 %}",Nc1c(cc(cc1c2ccccc2)c3ccccc3)c4ccccc4,[#7]-[c]1:[c](-[c]2:[c]:[c]:[c]:[c]:[c]2):[c]:[c](-[c]3:[c]:[c]:[c]:[c]:[c]3):[c]:[c]1-[c]4:[c]:[c]:[c]:[c]:[c]4
+"{2,5-Dichloroamylamine hydrochloride, gradetech. 95 %}",Cl.NCC(Cl)CCCCl,[#6](-[#17])(-[#6]-[#7])-[#6]-[#6]-[#6]-[#17]
+"{2-Methylaminomethyl-1,3-dioxolane, 98 %}",CNCC1OCCO1,[#6](-[#6]1-[#8]-[#6]-[#6]-[#8]1)-[#7]-[#6]
+"{N-Ethylcyclohexylamine, 98 %}",CCNC1CCCCC1,[#7](-[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]1)-[#6]-[#6]
+"{N,N-Dimethylcyclohexylamine, 99 %}",CN(C)C1CCCCC1,[#7](-[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]1)(-[#6])-[#6]
+"{Benzyltributylammonium iodide, 97 %}",[I-].CCCC[N+](CCCC)(CCCC)Cc1ccccc1,[#7+](-[#6]-[#6]-[#6]-[#6])(-[#6]-[#6]-[#6]-[#6])(-[#6]-[#6]-[#6]-[#6])-[#6]-[c]1:[c]:[c]:[c]:[c]:[c]1
+"{2,4,6-Trimethoxybenzylamine hydrochloride, 98 %}",Cl.COc1cc(OC)c(CN)c(OC)c1,[c]1(-[#8]-[#6]):[c](-[#6]-[#7]):[c](-[#8]-[#6]):[c]:[c](-[#8]-[#6]):[c]1
+"{Tris[2-(2-methoxyethoxy)ethyl]amine, 95 %}",COCCOCCN(CCOCCOC)CCOCCOC,[#7](-[#6]-[#6]-[#8]-[#6]-[#6]-[#8]-[#6])(-[#6]-[#6]-[#8]-[#6]-[#6]-[#8]-[#6])-[#6]-[#6]-[#8]-[#6]-[#6]-[#8]-[#6]
+"{Di-sec-butylamine,mixture of (+/-) and meso, 99 %}",CCCCNC(C)CC,[#6](-[#6])(-[#6]-[#6])-[#7]-[#6]-[#6]-[#6]-[#6]
+"{N-Methylpropylamine, 96 %}",CCCNC,[#6](-[#7]-[#6])-[#6]-[#6]
+"{Methyl 3-nitropropionate, 97 %}",COC(=O)CC[N+](=O)[O-],[#7+](=[#8])(-[#8-])-[#6]-[#6]-[#6](=[#8])-[#8]-[#6]
+"{4-Bromo-N,N-diisopropylbenzylamine, 95 %}",CC(C)N(Cc1ccc(Br)cc1)C(C)C,[#6](-[c]1:[c]:[c]:[c](-[#35]):[c]:[c]1)-[#7](-[#6](-[#6])-[#6])-[#6](-[#6])-[#6]
+"{4-(Methylamino)phenol hemisulfate salt, gradeACS reagent 99.0-101.5 %}",CNc1ccc(O)cc1.OS(=O)(=O)O,[c]1:[c](-[#8]):[c]:[c]:[c](-[#7]-[#6]):[c]1
+"{2,3-Dimethylphenylhydrazine hydrochloride hydrate}",O.Cl.Cc1cccc(NN)c1C,[#7](-[c]1:[c]:[c]:[c]:[c](-[#6]):[c]1-[#6])-[#7]
+"{Triphenylmethylamine, 99 %}",NC(c1ccccc1)(c2ccccc2)c3ccccc3,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)(-[c]2:[c]:[c]:[c]:[c]:[c]2)(-[c]3:[c]:[c]:[c]:[c]:[c]3)-[#7]
+"{3-Chloro-2,6-diethylaniline, 98 %}",CCc1ccc(Cl)c(CC)c1N,[#6](-[c]1:[c](:[c]:[c]:[c](-[#6]-[#6]):[c]1-[#7])-[#17])-[#6]
+"{(R)-(+)-(3-Chloro-2-hydroxypropyl)trimethylammonium chloride, 99 %}",[Cl-].C[N+](C)(C)C[C@@H](O)CCl,[#6@](-[#6]-[#17])(-[#8])(-[#6]-[#7+](-[#6])(-[#6])-[#6])-[#1]
+"{N-Methylhomoveratrylamine, 97 %}",CNCCc1ccc(OC)c(OC)c1,[#8](-[c]1:[c]:[c](-[#6]-[#6]-[#7]-[#6]):[c]:[c]:[c]1-[#8]-[#6])-[#6]
+"{Ammonia solution, 2.0 M in methanol}",N,[#7]
+"{3-(1,1,2,2-Tetrafluoroethoxy)aniline, 97 %}",Nc1cccc(OC(F)(F)C(F)F)c1,[c]1:[c](-[#7]):[c]:[c](-[#8]-[#6](-[#9])(-[#9])-[#6](-[#9])-[#9]):[c]:[c]1
+"{Choline bicarbonate solution, 75 wt. % in water}",C[N+](C)(C)CCO.OC(=O)[O-],[#7+](-[#6])(-[#6])(-[#6])-[#6]-[#6]-[#8]
+"{S-Benzyl-L-cysteinol, 97 %}",N[C@@H](CO)CSCc1ccccc1,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#16]-[#6]-[#6@@](-[#7])-[#6]-[#8]
+"{3-Fluoro-5-(trifluoromethyl)benzylamine, 97 %}",NCc1cc(F)cc(c1)C(F)(F)F,[#9]-[c]1:[c]:[c](-[#6](-[#9])(-[#9])-[#9]):[c]:[c](-[#6]-[#7]):[c]1
+"{2-[2-(Aminomethyl)phenylthio]benzyl alcohol, 95 %}",NCc1ccccc1Sc2ccccc2CO,[#16](-[c]1:[c]:[c]:[c]:[c]:[c]1-[#6]-[#8])-[c]2:[c]:[c]:[c]:[c]:[c]2-[#6]-[#7]
+"{3,3'-Iminobis(N,N-dimethylpropylamine), 97 %}",CN(C)CCCNCCCN(C)C,[#6](-[#6]-[#7]-[#6]-[#6]-[#6]-[#7](-[#6])-[#6])-[#6]-[#7](-[#6])-[#6]
+"{Serinol oxalate, 98 %}",NC(CO)CO.OC(=O)C(=O)O,[#6](-[#6](-[#6]-[#8])-[#7])-[#8]
+"{N-tert-Butylmethylamine, 97 %}",CNC(C)(C)C,[#6](-[#6])(-[#6])(-[#6])-[#7]-[#6]
+"{Cyclopropanemethylamine, 97 %}",NCC1CC1,[#6](-[#6]1-[#6]-[#6]1)-[#7]
+"{(R)-(+)-Bornylamine, 97 %}",CC1(C)[C@@H]2CCC1(C)C(N)C2,[#6]-[#6]12-[#6@@](-[#6@](-[#6]-[#6]1)-[#6]-[#6]2-[#7])(-[#6])-[#6]
+"{2-Methoxy-6-methylaniline, 98 %}",COc1cccc(C)c1N,[#8](-[c]1:[c]:[c]:[c]:[c](-[#6]):[c]1-[#7])-[#6]
+"{(1S,2S)-(+)-Thiomicamine, 99 %}",CSc1ccc(cc1)C(O)C(N)CO,[#6](-[c]1:[c]:[c]:[c](-[#16]-[#6]):[c]:[c]1)(-[#8])-[#6](-[#7])-[#6]-[#8]
+"{1-Azoniapropellane chloride, 97 %}",[Cl-].C1CC23CCC[N+]2(CCC3)C1,[#7+]123-[#6](-[#6]-[#6]-[#6]1)(-[#6]-[#6]-[#6]2)-[#6]-[#6]-[#6]3
+"{2-Amino-4-(trifluoromethyl)benzenethiol hydrochloride, 97 %}",Cl.Nc1cc(ccc1S)C(F)(F)F,[#6](-[c]1:[c]:[c]:[c](-[#16]):[c](-[#7]):[c]1)(-[#9])(-[#9])-[#9]
+"{N-(Ethoxymethyl)-N-methylaniline, 97 %}",CCOCN(C)c1ccccc1,[#7](-[#6]-[#8]-[#6]-[#6])(-[#6])-[c](:[c]:[c]:[c]:[c]1):[c]1
+"{4-(Trifluoromethoxy)phenylhydrazine hydrochloride, 98 %}",Cl.NNc1ccc(OC(F)(F)F)cc1,[c]1(-[#8]-[#6](-[#9])(-[#9])-[#9]):[c]:[c]:[c](-[#7]-[#7]):[c]:[c]1
+"{Triisobutylamine, 98 %}",CC(C)CN(CC(C)C)CC(C)C,[#7](-[#6]-[#6](-[#6])-[#6])(-[#6]-[#6](-[#6])-[#6])-[#6]-[#6](-[#6])-[#6]
+"{N,N-Dimethylundecylamine N-oxide, 97 %}",CCCCCCCCCCC[N+](C)(C)[O-],[#6](-[#6]-[#6]-[#7+](-[#8-])(-[#6])-[#6])-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]
+"{N-Ethyldiisopropylamine, Purified by redistillation 99.5 %}",CCN(C(C)C)C(C)C,[#7](-[#6]-[#6])(-[#6](-[#6])-[#6])-[#6](-[#6])-[#6]
+"{1-(1-Adamantyl)ethylamine hydrochloride, 99 %}",Cl.CC(N)C12CC3CC(CC(C3)C1)C2,[#6](-[#6]12-[#6]-[#6](-[#6]-[#6](-[#6]-[#6]3-[#6]1)-[#6]2)-[#6]3)(-[#7])-[#6]
+"{2,4,6-Tri-tert-butyl-N-methylaniline, 95 %}",CNc1c(cc(cc1C(C)(C)C)C(C)(C)C)C(C)(C)C,[#7](-[c]1:[c](:[c]:[c](-[#6](-[#6])(-[#6])-[#6]):[c]:[c]1-[#6](-[#6])(-[#6])-[#6])-[#6](-[#6])(-[#6])-[#6])-[#6]
+"{2-Amino-4-phenylphenol, gradetech. 90 %}",Nc1cc(ccc1O)c2ccccc2,[#7]-[c]1:[c](:[c]:[c]:[c](-[c]2:[c]:[c]:[c]:[c]:[c]2):[c]1)-[#8]
+"{N4,N4-Diethyl-2-methyl-1,4-phenylenediamine monohydrochloride, 97 %}",Cl.CCN(CC)c1ccc(N)c(C)c1,[#7](-[c]1:[c]:[c]:[c](-[#7]):[c](-[#6]):[c]1)(-[#6]-[#6])-[#6]-[#6]
+"{2,6-Diisopropyl-N,N-dimethylaniline, 96 %}",CC(C)c1cccc(C(C)C)c1N(C)C,[#7](-[c]1:[c](:[c]:[c]:[c]:[c]1-[#6](-[#6])-[#6])-[#6](-[#6])-[#6])(-[#6])-[#6]
+"{cis-(1R,2S)-(+)-2-(Benzylamino)cyclohexanemethanol, 99 %}",OCC1CCCC[C@@H]1NCc2ccccc2,[#7](-[#6@]1-[#6]-[#6]-[#6]-[#6]-[#6]1-[#6]-[#8])-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{(S)-(-)-alpha,4-Dimethylbenzylamine, 98 %}",C[C@H](N)c1ccc(C)cc1,[c]1:[c](-[#6@](-[#7])(-[#1])-[#6]):[c]:[c]:[c](-[#6]):[c]1
+"{2,2,4(2,4,4)-Trimethyl-1,6-hexanediamine, 99 %}",CC(CN)CC(C)(C)CCN.CC(CCN)CC(C)(C)CN,[#6](-[#6]-[#6](-[#6])(-[#6]-[#7])-[#6])(-[#6])(-[#6]-[#6]-[#7])-[#1]
+"{Geranylamine, 90 %}",CC(=CCC\C(=C\CN)\C)C,[#6](/-[#6])(=[#6]/-[#6]-[#7])\-[#6]-[#6]\-[#6]=[#6](/-[#6])\-[#6]
+"{(S)-(+)-Tetrahydrofurfurylamine, 97 %}",NC[C@@H]1CCCO1,[#8]1-[#6@](-[#6]-[#7])-[#6]-[#6]-[#6]1
+"{Diisopropylamine hydrochloride, 99 %}",Cl.CC(C)NC(C)C,[#7](-[#6](-[#6])-[#6])-[#6](-[#6])-[#6]
+"{(1S,2S)-(-)-1,2-Diaminocyclohexane D-tartrate, 99 %}",N[C@H]1CCCC[C@@H]1N.OC(C(O)C(=O)O)C(=O)O,[#6](-[#6](-[#6](-[#8])-[#6](-[#8])=[#8])-[#8])(-[#8])=[#8]
+"{tert-Amyl-tert-octylamine, 95 %}",CCCCCC(C)(C)NC(C)(C)CC,[#7](-[#6](-[#6])(-[#6])-[#6]-[#6])-[#6](-[#6])(-[#6])-[#6]-[#6]-[#6]-[#6]-[#6]
+"{tert-Amyl tert-butyl nitroxide, 95 %}",CCC(C)(C)N(O)C(C)(C)C,[#7](-[#8])(-[#6](-[#6])(-[#6])-[#6])-[#6](-[#6])(-[#6])-[#6]-[#6]
+{4-Aminothiophenol},Nc1ccc(S)cc1,[c]1:[c](-[#16]):[c]:[c]:[c](-[#7]):[c]1
+"{2-Dimethylamino-2-methylpropanol solution, 80% in water gradetech.}",CN(C)C(C)(C)CO,[#6](-[#6])(-[#6])(-[#6]-[#8])-[#7](-[#6])-[#6]
+"{cis-4-Chloro-2-butenylamine hydrochloride, 95 %}",Cl.NC\C=C/CCl,[#1]-[#6](/-[#6]-[#17])=[#6](/-[#6]-[#7])-[#1]
+"{(S)-2-Amino-3-cyclohexylpropanol hydrochloride, 97 %}",Cl.NC(CO)CC1CCCCC1,[#6](-[#6]1-[#6]-[#6]-[#6]-[#6]-[#6]1)-[#6](-[#7])-[#6]-[#8]
+"{N,N-Dimethylformamide dibenzyl acetal}",CN(C)C(OCc1ccccc1)OCc2ccccc2,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#8]-[#6](-[#7](-[#6])-[#6])-[#8]-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{2-Chloro-1,3-dimethylimidazolidinium tetrafluoroborate, 98 %}",CN1CC[N+](=C1Cl)C.F[B-](F)(F)F,[#7]1(-[#6])-[#6](-[#17])=[#7+](-[#6])-[#6]-[#6]1
+"{(1R,2S)-(+)-cis-1-Amino-2-indanol, 99 %}",N[C@H]1C(O)Cc2ccccc12,[#7]-[#6@]1-[#6](-[#6]-[c](:[c]:[c]:[c]:[c]2):[c]12)-[#8]
+"{erythro-2-Anilino-1,2-diphenylethanol, 95 %}",O[C@@H]([C@H](Nc1ccccc1)c2ccccc2)c3ccccc3,[#6@](-[#8])(-[c]1:[c]:[c]:[c]:[c]:[c]1)(-[#6@](-[#7]-[c]2:[c]:[c]:[c]:[c]:[c]2)(-[c]3:[c]:[c]:[c]:[c]:[c]3)-[#1])-[#1]
+"{erythro-1,2-Diphenyl-2-(propylamino)ethanol, 98 %}",CCCN[C@@H]([C@H](O)c1ccccc1)c2ccccc2,[#6@](-[#8])(-[c]1:[c]:[c]:[c]:[c]:[c]1)(-[#6@](-[#7]-[#6]-[#6]-[#6])(-[c]2:[c]:[c]:[c]:[c]:[c]2)-[#1])-[#1]
+"{N,N'-Di-tert-butylethylenediamine, 98 %}",CC(C)(C)NCCNC(C)(C)C,[#6](-[#7]-[#6]-[#6]-[#7]-[#6](-[#6])(-[#6])-[#6])(-[#6])(-[#6])-[#6]
+"{(-)-N-Benzyl-N-methylephedrinium bromide, 99 %}",[Br-].C[C@@H](C(O)c1ccccc1)[N+](C)(C)Cc2ccccc2,[#7+](-[#6]-[c]1:[c]:[c]:[c]:[c]:[c]1)(-[#6])(-[#6])-[#6@@](-[#6])-[#6](-[#8])-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{2-Bromo-N,N-diethylethylamine hydrobromide, 98 %}",Br.CCN(CC)CCBr,[#7](-[#6]-[#6]-[#35])(-[#6]-[#6])-[#6]-[#6]
+"{N-tert-Butyldiethanolamine, 97 %}",CC(C)(C)N(CCO)CCO,[#6](-[#6])(-[#6])(-[#6])-[#7](-[#6]-[#6]-[#8])-[#6]-[#6]-[#8]
+"{2'-Aminoacetophenone phenylhydrazone, 97 %}",C\C(=N/Nc1ccccc1)\c2ccccc2N,[#6](/-[#6])(\-[c]1:[c](-[#7]):[c]:[c]:[c]:[c]1)=[#7]/-[#7]-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{Tri-p-tolylamine, 97 %}",Cc1ccc(cc1)N(c2ccc(C)cc2)c3ccc(C)cc3,[#7](-[c]1:[c]:[c]:[c](-[#6]):[c]:[c]1)(-[c]2:[c]:[c]:[c](-[#6]):[c]:[c]2)-[c]3:[c]:[c]:[c](-[#6]):[c]:[c]3
+"{(R)-(+)-N,N-Dimethyl-1-(1-naphthyl)ethylamine, 97 %}",C[C@@H](N(C)C)c1cccc2ccccc12,[#1]-[#6@@](-[#6])(-[c]1:[c]:[c]:[c]:[c](:[c]:[c]:[c]:[c]2):[c]12)-[#7](-[#6])-[#6]
+"{Bis[(S)-(+)-(1-naphthyl)ethyl]amine hydrochloride, 98 %}",Cl.C[C@H](N[C@@H](C)c1cccc2ccccc12)c3cccc4ccccc34,[c]1:[c]:[c]:[c]2:[c](:[c]:[c]:[c]:[c]2):[c]1-[#6@](-[#6])-[#7]-[#6@@](-[#6])-[c]3:[c]:[c]:[c]:[c](:[c]:[c]:[c]:[c]4):[c]34
+"{1-(2,6-Dimethylphenoxy)-2-propanamine hydrochloride, 97 %}",Cl.CC(N)COc1c(C)cccc1C,[c]1(-[#8]-[#6]-[#6](-[#7])-[#6]):[c](-[#6]):[c]:[c]:[c]:[c]1-[#6]
+"{2-Amino-N-cyclohexyl-N-methylbenzylamine, 98 %}",CN(Cc1ccccc1N)C2CCCCC2,[#7](-[#6])(-[#6]-[c]1:[c](-[#7]):[c]:[c]:[c]:[c]1)-[#6]2-[#6]-[#6]-[#6]-[#6]-[#6]2
+"{Tris(methylamino)ethylamine, 97 %}",CNCCN(CCNC)CCNC,[#7](-[#6])-[#6]-[#6]-[#7](-[#6]-[#6]-[#7]-[#6])-[#6]-[#6]-[#7]-[#6]
+"{cis-1,8-Diamino-p-menthane, 98 %}",CC(C)(N)C1CCC(C)(N)CC1,[#6@](-[#7])(-[#6])(-[#6])-[#6](-[#6]-[#6]-[#6@@]1(-[#6])-[#7])-[#6]-[#6]1
+"{L-Tyrosinol hydrochloride, 98 %}",Cl.N[C@H](CO)Cc1ccc(O)cc1,[#1]-[#6@@](-[#6]-[#8])(-[#6]-[c]1:[c]:[c]:[c](-[#8]):[c]:[c]1)-[#7]
+"{1,1,1-Trimethylhydrazinium iodide, 97 %}",[I-].C[N+](C)(C)N,[#7+](-[#7])(-[#6])(-[#6])-[#6]
+"{(1S,4S)-(-)-2-(4-Fluorophenyl)-2,5-diazabicyclo[2.2.1]heptane hydrobromide}",Br.Fc1ccc(cc1)N2CC3CC2CN3,[#7]1-[#6]-[#6](-[#6]-[#6]1-[#6]2)-[#7]2-[c]3:[c]:[c]:[c](:[c]:[c]3)-[#9]
+"{O-(Tetrahydro-2H-pyran-2-yl)hydroxylamine, 96 %}",NOC1CCCCO1,[#8]1-[#6](-[#8]-[#7])-[#6]-[#6]-[#6]-[#6]1
+"{4-(Methylamino)cyclohexanone 2,2-dimethyltrimethylene ketal hydrochloride, 97 %}",Cl.CNC1CCC2(CC1)OCC(C)(C)CO2,[#6]1-[#6](-[#7]-[#6])-[#6]-[#6]-[#6](-[#8]-[#6]-[#6](-[#6])(-[#6])-[#6]2)(-[#8]2)-[#6]1
+"{1-Chloro-N,N,2-trimethyl-1-propenylamine, 97 %}",CN(C)C(=C(C)C)Cl,[#6]\-[#6](\-[#6])=[#6](/-[#17])\-[#7](-[#6])-[#6]
+"{2,6-Dichloro-5-fluoro-3-pyridinecarbonyl chloride, 97 %}",Fc1cc(C(=O)Cl)c(Cl)nc1Cl,[c]1(-[#9]):[c]:[c](-[#6](=[#8])-[#17]):[c](-[#17]):[n]:[c]1-[#17]
+"{1,1-Dimethyl-N-tert-octylallylamine, 97 %}",CC(C)(C)CC(C)(C)NC(C)(C)C=C,[#6]=[#6]-[#6](-[#6])(-[#6])-[#7]-[#6](-[#6])(-[#6])-[#6]-[#6](-[#6])(-[#6])-[#6]
+"{N-Methyldipropylamine, 98 %}",CCCN(C)CCC,[#6]-[#6]-[#6]-[#7](-[#6])-[#6]-[#6]-[#6]
+"{Cyclohexylhydrazine hydrochloride, 98 %}",Cl.NNC1CCCCC1,[#6]1-[#6](-[#7]-[#7])-[#6]-[#6]-[#6]-[#6]1
+"{(5-Bromopentyl)trimethylammonium bromide, 97 %}",[Br-].C[N+](C)(C)CCCCCBr,[#35]-[#6]-[#6]-[#6]-[#6]-[#6]-[#7+](-[#6])(-[#6])-[#6]
+"{N-Methyldiphenylamine, 96 %}",CN(c1ccccc1)c2ccccc2,[c]1:[c]:[c]:[c](-[#7](-[#6])-[c]2:[c]:[c]:[c]:[c]:[c]2):[c]:[c]1
+"{2,5-Diethoxyaniline}",CCOc1ccc(OCC)c(N)c1,[c]1:[c](-[#7]):[c](-[#8]-[#6]-[#6]):[c]:[c]:[c]1-[#8]-[#6]-[#6]
+"{(1S,2S)-Pseudoephedrine alpha-fluoroacetamide, 98 %}",C[C@@H]([C@@H](O)c1ccccc1)N(C)C(=O)CF,[c]1:[c]:[c]:[c](-[#6@](-[#8])-[#6@](-[#6])-[#7](-[#6])-[#6](=[#8])-[#6]-[#9]):[c]:[c]1
+"{N-Methyl-3-chloroaniline, 97 %}",CNc1cccc(Cl)c1,[c]1:[c](-[#7]-[#6]):[c]:[c](-[#17]):[c]:[c]1
+{1-Ethyl-2-nitrobenzene},CCc1ccccc1[N+](=O)[O-],[c]1:[c](-[#6]-[#6]):[c](-[#7+](=[#8])-[#8-]):[c]:[c]:[c]1
+"{3-(2-Ethylhexyloxy)propylamine, 97 %}",CCCCC(CC)COCCCN,[#6]-[#6]-[#6]-[#6]-[#6](-[#6]-[#6])-[#6]-[#8]-[#6]-[#6]-[#6]-[#7]
+"{4-Diethylamino-2-butyn-1-ol, 97 %}",CCN(CC)CC#CCO,[#8]-[#6]-[#6]#[#6]-[#6]-[#7](-[#6]-[#6])-[#6]-[#6]
+{2-Bromo-6-chloro-4-nitroaniline},Nc1c(Cl)cc(cc1Br)[N+](=O)[O-],[c]1(-[#17]):[c](-[#7]):[c](-[#35]):[c]:[c](-[#7+](-[#8-])=[#8]):[c]1
+"{(S)-(-)-2-Amino-3-methyl-1,1-diphenylbutane}",CC(C)[C@H](N)C(c1ccccc1)c2ccccc2,[#6](-[#6])(-[#6])-[#6@](-[#1])(-[#7])-[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{2-Amino-5-chlorophenol, 97 %}",Nc1ccc(Cl)cc1O,[c]1:[c](-[#8]):[c](-[#7]):[c]:[c]:[c]1-[#17]
+"{(S)-(-)-2-Amino-1-fluoro-4-methyl-1,1-diphenylpentane}",CC(C)C[C@H](N)C(F)(c1ccccc1)c2ccccc2,[#6](-[#6])(-[#6])-[#6]-[#6@](-[#1])(-[#7])-[#6](-[#9])(-[c]1:[c]:[c]:[c]:[c]:[c]1)-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{(S)-(-)-2-Amino-3,3-dimethyl-1,1-diphenyl-1-butanol, 99 %}",CC(C)(C)[C@H](N)C(O)(c1ccccc1)c2ccccc2,[#6](-[#6])(-[#6])(-[#6])-[#6@@](-[#7])(-[#1])-[#6](-[#8])(-[c]1:[c]:[c]:[c]:[c]:[c]1)-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{3,4,5-Trifluoroaniline, 98 %}",Nc1cc(F)c(F)c(F)c1,[c]1:[c](-[#7]):[c]:[c](-[#9]):[c](-[#9]):[c]1-[#9]
+"{3,4-Dichlorophenethylamine}",NCCc1ccc(Cl)c(Cl)c1,[c]1(-[#17]):[c]:[c]:[c](-[#6]-[#6]-[#7]):[c]:[c]1-[#17]
+{3-Chloro-4-(4-chlorophenoxy)aniline},Nc1ccc(Oc2ccc(Cl)cc2)c(Cl)c1,[c]1(-[#17]):[c]:[c]:[c](-[#8]-[c]2:[c](-[#17]):[c]:[c](-[#7]):[c]:[c]2):[c]:[c]1
+"{2-Aminobenzhydrazide, 97 %}",NNC(=O)c1ccccc1N,[c]1:[c]:[c]:[c](-[#6](-[#7]-[#7])=[#8]):[c](-[#7]):[c]1
+"{4-tert-Butyl-2,6-diaminoanisole}",COc1c(N)cc(cc1N)C(C)(C)C,[c]1(-[#7]):[c](-[#8]-[#6]):[c](-[#7]):[c]:[c](-[#6](-[#6])(-[#6])-[#6]):[c]1
+"{4-Cyano-2-iodoaniline, 98 %}",Nc1ccc(cc1I)C#N,[c]1:[c](-[#7]):[c](-[#53]):[c]:[c](-[#6]#[#7]):[c]1
+"{Cyclobutane-1,1-dicarboxamide}",NC(=O)C1(CCC1)C(=O)N,[#6]1(-[#6](=[#8])-[#7])(-[#6](=[#8])-[#7])-[#6]-[#6]-[#6]1
+"{1-Amino-3-butene hydrochloride, 97 %}",Cl.NCCC=C,[#6]=[#6]-[#6]-[#6]-[#7]
+"{4-Benzyloxy-N-methylaniline, 97%}",CNc1ccc(OCc2ccccc2)cc1,[c]1(-[#7]-[#6]):[c]:[c]:[c](-[#8]-[#6]-[c]2:[c]:[c]:[c]:[c]:[c]2):[c]:[c]1
+"{2-Trifluoromethyl-N-methylaniline, 96%}",CNc1ccccc1C(F)(F)F,[c]1:[c](-[#7]-[#6]):[c](-[#6](-[#9])(-[#9])-[#9]):[c]:[c]:[c]1
+{2-Fluoro-N-methylbenzylamine},CNCc1ccccc1F,[c]1:[c](-[#6]-[#7]-[#6]):[c](-[#9]):[c]:[c]:[c]1
+"{4-tert-Butylbenzylamine, 97 %}",CC(C)(C)c1ccc(CN)cc1,[c]1:[c](-[#6]-[#7]):[c]:[c]:[c](-[#6](-[#6])(-[#6])-[#6]):[c]1
+"{1-(Dimethylamino)-2-nitroethylene, 97 %}",CN(C)\C=C\[N+](=O)[O-],[#6]-[#7](-[#6])\-[#6]=[#6]\-[#7+](=[#8])-[#8-]
+"{N,N'-Dimethylcyclohexane-1,2-diamine, 97 %}",CNC1CCCCC1NC,[#6]1-[#6]-[#6](-[#7]-[#6])-[#6](-[#7]-[#6])-[#6]-[#6]1
+"{N-(3,4-methylenedioxybenzylidene)benzylamine, 97%}",C(\N=C\c1ccc2OCOc2c1)c3ccccc3,[c]1:[c]:[c](-[#8]-[#6]-[#8]2):[c]2:[c]:[c]1\-[#6]=[#7]\-[#6]-[c]3:[c]:[c]:[c]:[c]:[c]3
+{2-Methylallylamine hydrochloride},Cl.CC(=C)CN,[#6]=[#6](-[#6])-[#6]-[#7]
+"{3-Methoxytriphenylamine, 97%}",COc1cccc(c1)N(c2ccccc2)c3ccccc3,[c]1:[c]:[c]:[c](-[#7](-[c]2:[c]:[c](-[#8]-[#6]):[c]:[c]:[c]2)-[c]3:[c]:[c]:[c]:[c]:[c]3):[c]:[c]1
+"{4-Bromo-N,N-diphenylaniline, 97%}",Brc1ccc(cc1)N(c2ccccc2)c3ccccc3,[c]1:[c]:[c](-[#7](-[c]2:[c]:[c]:[c]:[c]:[c]2)-[c]3:[c]:[c]:[c](-[#35]):[c]:[c]3):[c]:[c]:[c]1
+"{N-benzylidene-N-(diphenylmethyl)amine, 97%}",C(=N\C(c1ccccc1)c2ccccc2)/c3ccccc3,[c]1:[c]:[c](\-[#6]=[#7]\-[#6](-[c]2:[c]:[c]:[c]:[c]:[c]2)-[c]3:[c]:[c]:[c]:[c]:[c]3):[c]:[c]:[c]1
+"{4,4'-Bis(dimethylamino)diphenyl carbinol, 95 %}",CN(C)c1ccc(cc1)C(O)c2ccc(cc2)N(C)C,[#6](-[c]1:[c]:[c]:[c](-[#7](-[#6])-[#6]):[c]:[c]1)(-[c]2:[c]:[c]:[c](-[#7](-[#6])-[#6]):[c]:[c]2)-[#8]
+"{4-Aminobutyraldehyde diethyl acetal, 90 % gradetech.}",CCOC(CCCN)OCC,[#6](-[#8]-[#6]-[#6])(-[#8]-[#6]-[#6])-[#6]-[#6]-[#6]-[#7]
+"{4-Chloro-3-(trifluoromethyl)aniline, 99 %}",Nc1ccc(Cl)c(c1)C(F)(F)F,[#6](-[c]1:[c]:[c](-[#7]):[c]:[c]:[c]1-[#17])(-[#9])(-[#9])-[#9]
+"{2-(2-Aminoethoxy)ethanol, 98 %}",NCCOCCO,[#8](-[#6]-[#6]-[#8])-[#6]-[#6]-[#7]
+"{2-Amino-1-methoxypropane, 95 %}",COCC(C)N,[#6](-[#8]-[#6])-[#6](-[#7])-[#6]
+"{Benzylhydrazine dihydrochloride, 97 %}",Cl.NNCc1ccccc1,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#7]-[#7]
+"{O-Benzylhydroxylamine hydrochloride, 99 %}",Cl.NOCc1ccccc1,[#6](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#8]-[#7]
+"{Bis(2-chloroethyl)amine hydrochloride, 98 %}",Cl.ClCCNCCCl,[#7](-[#6]-[#6]-[#17])-[#6]-[#6]-[#17]
+"{1,3-Bis(dimethylamino)-2-propanol, 97 %}",CN(C)CC(O)CN(C)C,[#6](-[#7](-[#6])-[#6])-[#6](-[#8])-[#6]-[#7](-[#6])-[#6]
+"{Bis(2-methoxyethyl)amine, 99 %}",COCCNCCOC,[#7](-[#6]-[#6]-[#8]-[#6])-[#6]-[#6]-[#8]-[#6]
+{2-(Butylamino)ethanethiol},CCCCNCCS,[#6](-[#6]-[#6]-[#6])-[#7]-[#6]-[#6]-[#16]
+"{2-Dimethylaminoethanethiol hydrochloride, 95 %}",Cl.CN(C)CCS,[#6](-[#6]-[#16])-[#7](-[#6])-[#6]
+"{2-Chloro-N,N-dimethylpropylamine hydrochloride, 98 %}",Cl.CC(Cl)CN(C)C,[#6](-[#7](-[#6])-[#6])-[#6](-[#17])-[#6]
+"{3-(Dimethylamino)phenol, 97 %}",CN(C)c1cccc(O)c1,[#7](-[c]1:[c]:[c]:[c]:[c](-[#8]):[c]1)(-[#6])-[#6]
+"{3-Dimethylamino-1-propyl chloride hydrochloride, 96 %}",Cl.CN(C)CCCCl,[#6](-[#6]-[#6]-[#17])-[#7](-[#6])-[#6]
+"{N,N'-Dimethylhydrazine dihydrochloride, 99+ %}",Cl.CNNC,[#7](-[#6])-[#7]-[#6]
+"{2,7-Diaminofluorene, >97 %}",Nc1ccc2c(Cc3cc(N)ccc23)c1,[#7]-[c]1:[c]:[c]:[c](-[c]2:[c](:[c]:[c](-[#7]):[c]:[c]2)-[#6]3):[c]3:[c]1
+"{4,5-Dimethyl-o-phenylenediamine, 98 %}",Cc1cc(N)c(N)cc1C,[#6]-[c]1:[c]:[c](-[#7]):[c](-[#7]):[c]:[c]1-[#6]
+"{N,N'-Diphenylethylenediamine, 98 %}",C(CNc1ccccc1)Nc2ccccc2,[#7](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[#6]-[#6]-[#7]-[c]2:[c]:[c]:[c]:[c]:[c]2
+"{3-(Dibutylamino)propylamine, 98 %}",CCCCN(CCCC)CCCN,[#7](-[#6]-[#6]-[#6]-[#7])(-[#6]-[#6]-[#6]-[#6])-[#6]-[#6]-[#6]-[#6]
+"{(Diethylamino)acetaldehyde diethyl acetal, 99 %}",CCOC(CN(CC)CC)OCC,[#6](-[#8]-[#6]-[#6])(-[#8]-[#6]-[#6])-[#6]-[#7](-[#6]-[#6])-[#6]-[#6]
+"{Diallylamine, 99 %}",C=CCNCC=C,[#7](-[#6]-[#6]=[#6])-[#6]-[#6]=[#6]
+"{9-Fluorenone hydrazone, 98 %}",NN=C1c2ccccc2c3ccccc13,[#7](=[#6](/-[c]1:[c]2:[c]:[c]:[c]:[c]1)\-[c]3:[c]2:[c]:[c]:[c]:[c]3)/-[#7]
+"{(-)-Isoproterenol hydrochloride, 98 %}",Cl.CC(C)NCC(O)c1ccc(O)c(O)c1,[#6](-[c]1:[c]:[c]:[c](-[#8]):[c](-[#8]):[c]1)(-[#8])-[#6]-[#7]-[#6](-[#6])-[#6]
+"{Oleylamine, gradetech. 70 %}",CCCCCCCC\C=C/CCCCCCCCN,[#6](/-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#7])=[#6]/-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]-[#6]
+"{N-Phenyldiethanolamine, 97 %}",OCCN(CCO)c1ccccc1,[#7](-[c]1:[c]:[c]:[c]:[c]:[c]1)(-[#6]-[#6]-[#8])-[#6]-[#6]-[#8]
+"{N-Phenyl-o-phenylenediamine, 98 %}",Nc1ccccc1Nc2ccccc2,[#7](-[c]1:[c]:[c]:[c]:[c]:[c]1)-[c]2:[c]:[c]:[c]:[c]:[c]2-[#7]
+"{N,N,N',N'-Tetramethyldiaminomethane, 99 %}",CN(C)CN(C)C,[#6](-[#7](-[#6])-[#6])-[#7](-[#6])-[#6]
+,C=CCN(CC=C)CC=C,[#7](-[#6]-[#6]=[#6])(-[#6]-[#6]=[#6])-[#6]-[#6]=[#6]
